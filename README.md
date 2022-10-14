@@ -1,1 +1,3 @@
-# NLP_QA_Extraction_Persian
+# NLP: QA Generator
+
+### Language: Farsi
