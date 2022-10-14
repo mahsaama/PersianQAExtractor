@@ -1,3 +1,3 @@
-# NLP: QA Generator
+# NLP: QA Extractor
 
 ### Language: Farsi
