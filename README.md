@@ -1,4 +1,5 @@
-# NLP: Question-Answer Extractor in Persian
+# Question-Answer Extractor 
 
 ### Programming Language: Python
+### Language: Persian
 
