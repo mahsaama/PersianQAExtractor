@@ -1,4 +1,4 @@
-# NLP: QA Extractor
+# NLP: Question-Answer Extractor in Persian
 
 ### Language: Farsi
 
